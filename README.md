@@ -44,6 +44,8 @@ Referencias bibliográficas
 Imagenes del proyecto
 --
 
+![image](https://github.com/TomasAguileraCastillo/Guia-de-ejercicios-JEE-y-Java-Server-Pages-III-/assets/136927556/717cd249-c35d-4699-af88-c7d333d408d8)
+
 ![image](https://github.com/TomasAguileraCastillo/Guia-de-ejercicios-JEE-y-Java-Server-Pages-III-/assets/136927556/a768271a-3940-4cc8-be22-b9a41303748b)
 
 ![image](https://github.com/TomasAguileraCastillo/Guia-de-ejercicios-JEE-y-Java-Server-Pages-III-/assets/136927556/5b7b7a0d-dddd-46e1-b305-eb646435a445)
